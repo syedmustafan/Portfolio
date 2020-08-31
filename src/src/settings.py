@@ -77,11 +77,10 @@ WSGI_APPLICATION = 'src.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sql12362419',
-        'USER': 'sql12362419',
-        'PASSWORD': 'IDec1VJbDq',
-        'HOST': 'sql12.freemysqlhosting.net',
-        'PORT': '3306',
+        'NAME': 'awaamire_portfolio',
+        'USER': 'awaamire_new',
+        'PASSWORD': 'M.nadeem123',
+        'HOST': 'localhost',
     }
 }
 
